@@ -1,3 +1,11 @@
+# Game Optimization Software for Windows
+
+A lightweight, one-click tool to improve game performance on Windows 10/11. (Currently Chinese UI only)
+
+---
+
+## 以下为中文说明
+
 # Windows 游戏优化助手
 
 一键优化 Windows 系统设置，提升游戏性能。
